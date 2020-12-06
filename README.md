@@ -8,6 +8,6 @@ TOKEN NAME: PUPPY
 Decimals Of Precision: 0
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/AbhiHan/21-Advanced-Solidity/blob/main/crowdsale1.png)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/AbhiHan/21-Advanced-Solidity/blob/main/crowdsale2.png)
